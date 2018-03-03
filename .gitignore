@@ -1,0 +1,17 @@
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+
+# Ignore local files
+.metadata/
+.ruby_version
+.DS_Store
+**.DS_Store
+**.sw?
+.rbenv-vars
+.ruby-version
